@@ -20,6 +20,12 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.1" level="project" />
+    <orderEntry type="module" module-name="cartmgr" />
+    <orderEntry type="module" module-name="goodsmgrweb" />
+    <orderEntry type="module" module-name="ordermgr" />
+    <orderEntry type="module" module-name="storemgr" />
+    <orderEntry type="module" module-name="customermgr" />
   </component>
 </module>
