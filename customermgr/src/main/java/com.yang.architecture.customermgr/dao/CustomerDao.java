@@ -2,7 +2,7 @@ package com.yang.architecture.customermgr.dao;
 
 import com.yang.architecture.customermgr.entity.Customer;
 import com.yang.architecture.customermgr.entity.query.CustomerQueryModel;
-import com.yang.architecture.dao.BaseDAO;
+import com.yang.architecture.common.dao.BaseDAO;
 import org.springframework.stereotype.Repository;
 
 /**
@@ -10,4 +10,5 @@ import org.springframework.stereotype.Repository;
  */
 @Repository
 public interface CustomerDao extends BaseDAO<Customer,CustomerQueryModel> {
+    public Customer findByShowName(String showName)throws Exception;
 }

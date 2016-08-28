@@ -1,4 +1,4 @@
-package com.yang.architecture.controller;
+package com.yang.architecture.common.controller;
 
 import com.yang.architecture.common.ResponsData;
 

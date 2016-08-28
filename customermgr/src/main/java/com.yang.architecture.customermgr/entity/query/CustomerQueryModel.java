@@ -1,6 +1,6 @@
 package com.yang.architecture.customermgr.entity.query;
 
-import com.yang.architecture.QueryModel.BaseQueryModel;
+import com.yang.architecture.common.QueryModel.BaseQueryModel;
 
 /**
  * Created by caijun.yang on 2016/8/21.

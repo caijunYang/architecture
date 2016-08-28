@@ -1,4 +1,4 @@
-package com.yang.architecture.pageutils;
+package com.yang.architecture.common.pageutils;
 
 import java.lang.reflect.Field;
 

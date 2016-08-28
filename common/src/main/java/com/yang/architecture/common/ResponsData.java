@@ -12,6 +12,12 @@ public class ResponsData {
     private Object data;
     private String msg;
 
+
+    public ResponsData(int code){
+        this.code=code;
+    }
+
+
     public int getCode() {
         return code;
     }

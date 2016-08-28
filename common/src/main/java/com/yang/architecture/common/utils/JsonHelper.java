@@ -1,4 +1,4 @@
-package com.yang.architecture.utils;
+package com.yang.architecture.common.utils;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.MapperFeature;
@@ -32,7 +32,7 @@ public class JsonHelper {
      * @return
      * @throws JsonProcessingException
      */
-    public static String  obj2Json(String obj) throws JsonProcessingException {
+    public static String  obj2Json(Object obj) throws JsonProcessingException {
         ObjectMapper mapper=new ObjectMapper();
         String str = mapper.writeValueAsString(obj);
         return str;

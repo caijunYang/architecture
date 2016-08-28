@@ -1,4 +1,4 @@
-package com.yang.architecture.entity;
+package com.yang.architecture.common.entity;
 
 /**
  * Created by caijun.yang on 2016/8/21.

@@ -1,4 +1,4 @@
-package com.yang.architecture.utils;
+package com.yang.architecture.common.utils;
 
 import org.apache.commons.lang.StringUtils;
 

@@ -1,7 +1,7 @@
-package com.yang.architecture.QueryModel;
+package com.yang.architecture.common.QueryModel;
 
 
-import com.yang.architecture.pageutils.Page;
+import com.yang.architecture.common.pageutils.Page;
 
 public class BaseQueryModel implements java.io.Serializable{
 

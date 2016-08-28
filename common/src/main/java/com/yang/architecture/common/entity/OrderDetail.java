@@ -1,4 +1,4 @@
-package com.yang.architecture.entity;
+package com.yang.architecture.common.entity;
 
 import java.math.BigDecimal;
 
